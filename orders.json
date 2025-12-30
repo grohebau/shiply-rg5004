@@ -1,0 +1,47 @@
+{
+  "S56259": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Steffen Meier, Bleichestraße 9, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Marijan Oršić, Trg Hrvatskih Pavlina 13, 10090 Zagreb, Kroatien",
+    "price": "5.000 €",
+    "description": "Hersteller: Suzuki<br>Typ: GT 750<br>Fahrgestelnummer: GT75061951<br>Erstzulassung: 06/1976<br>KM laut Vorbesitzer: 30.313 km<br>Leistung: 48 kW (65 PS)<br>Hubraum: 750 cm³<br>Farbe: Blau<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Marijan Oršić<br>Trg Hrvatskih Pavlina 13<br>10090 Zagreb<br>Kroatien<br>Telefon: -",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "30.12.2025",
+    "deliveryDate": "05.01.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
